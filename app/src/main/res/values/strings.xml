@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopiroller</string>
+    <string name="product_s">Product(s)</string>
+    <string name="price">Price</string>
+    <string name="title">Title</string>
+    <string name="publismentdate">PublishmentDate</string>
+    <string name="best_burger_menu">Best Burger Menu</string>
+    <string name="details">Details</string>
+    <string name="add_to_cart">Add to Cart</string>
+</resources>
